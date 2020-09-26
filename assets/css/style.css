@@ -109,15 +109,16 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.heightmod img {
-    max-height: 200px;
+    
 }
 
 .heightmod h2 {
-    margin-bottom: 20px;
     font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.heightmod img{
+    max-height: 200px;
 }
 
 footer {
